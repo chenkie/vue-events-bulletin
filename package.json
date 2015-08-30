@@ -1,0 +1,20 @@
+{
+  "name": "vue-event-bulletin",
+  "version": "1.0.0",
+  "description": "Demo application for the scotch.io tutorial",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vue",
+    "vuejs"
+  ],
+  "author": "Ryan Chenkie",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^3.3.5",
+    "vue": "^0.12.12",
+    "vue-resource": "^0.1.15"
+  }
+}
