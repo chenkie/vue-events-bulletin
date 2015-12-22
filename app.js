@@ -35,6 +35,7 @@ new Vue({
           .success(function (res) {
             this.events.push(this.event);
             console.log('Event added!');
+            this.event = { title: '', detail: '', date: '' };
           })
           .error(function (err) {
             console.log(err);
