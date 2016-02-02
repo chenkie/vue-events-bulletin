@@ -33,7 +33,7 @@ new Vue({
         // this.event = { title: '', detail: '', date: '' };
         this.$http.post('/api/events', this.event)
           .success(function (res) {
-            this.events.push(this.event);
+            this.events.push(JSON.parse(JSON.stringify(this.event)));
             console.log('Event added!');
           })
           .error(function (err) {
