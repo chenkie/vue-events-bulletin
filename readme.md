@@ -13,3 +13,7 @@ This is the code for the Vue.js [tutorial on Scotch.io](https://scotch.io/tutori
 1. **Use Node.js & Express for backend server and router.**
 2. **RESTful requests towards the server to simulate CRUD on *events* model, instead of local hardcoded ones.**
 3. Translated into Traditional Chinese.
+
+## RESTful API written in Go 
+
+This app has been modified by [thewhitetulip](http://github.com/thewhitetulip) to use a Go backend, [the source code](https://github.com/thewhitetulip/go-vue-events)
