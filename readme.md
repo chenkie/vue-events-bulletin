@@ -16,4 +16,5 @@ This is the code for the Vue.js [tutorial on Scotch.io](https://scotch.io/tutori
 
 ## RESTful API written in Go 
 
-This app has been modified by [thewhitetulip](http://github.com/thewhitetulip) to use a Go backend, [the source code](https://github.com/thewhitetulip/go-vue-events)
+If you would like to use a backend written in Go, [thewhitetulip](http://github.com/thewhitetulip) has written on. See [the source code](https://github.com/thewhitetulip/go-vue-events).
+ 
